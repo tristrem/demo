@@ -22,7 +22,6 @@ class DemoJpaApplicationTests {
 		List<User> list = userRepository.findAll();
 		System.out.println(list);
 		System.out.println(list);
-		System.out.println(list);
 
 	}
 
